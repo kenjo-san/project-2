@@ -17,7 +17,7 @@ min-height: 100%;
 width:100%;
 }
 section#latest button{
-  max-height: 250px;
+  max-height: 200px;
   padding: 0;
   overflow: hidden;
 
@@ -28,6 +28,7 @@ section#latest .latest-item{
 section#latest .latest-item:hover .overlay{
   opacity: 1;
   background: rgba(189, 61, 75, .9);
+ 
 }
 section#latest .latest-item:hover i{
   opacity: 1;
