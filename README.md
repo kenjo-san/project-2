@@ -1,1 +1,1 @@
-# elisoft-project is only one of my projects. I learning bootstrap 5 with this project.
+# elisoft-project is only one of my projects. I'm learning bootstrap 5 with this project.
