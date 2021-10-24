@@ -1,1 +1,1 @@
-# elisoft-project is only one of my projects. I'm learning bootstrap 5 with this project.
+# elisoft-project is only one of my projects. I'm learning bootstrap 5 with this project. This project's copyrights are Arin Yazilim's. You can use this project just because you are studying in somethings, working on websites. But, no one can sell this project.
